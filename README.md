@@ -93,24 +93,25 @@ Atualmente desenvolvendo um **bot avançado para WhatsApp** com arquitetura modu
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duduzms&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduzms&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduzms&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+
 </div>
 
 <br/>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duduzms&theme=radical&hide_border=true&background=0d1117)
-  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duduzms&theme=radical&hide_border=true&background=0d1117)
+
 </div>
 
 <br/>
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duduzms&theme=react-dark&hide_border=true&area=true)
-  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duduzms&theme=react-dark&hide_border=true&area=true)
+
 </div>
 
 ---
@@ -160,12 +161,12 @@ Acredito no poder da **colaboração entre humanos e IA**. No desenvolvimento do
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duduzms/duduzms/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duduzms/duduzms/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/duduzms/duduzms/output/github-contribution-grid-snake.svg">
-  </picture>
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duduzms/duduzms/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duduzms/duduzms/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/duduzms/duduzms/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
