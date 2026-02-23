@@ -90,32 +90,6 @@ Atualmente desenvolvendo um **bot avançado para WhatsApp** com arquitetura modu
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduzms&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duduzms&theme=radical&hide_border=true&background=0d1117)
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duduzms&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 🎯 Áreas de Expertise
 
 <div align="center">
@@ -154,6 +128,16 @@ Acredito no poder da **colaboração entre humanos e IA**. No desenvolvimento do
 - **💻 Humano**: Criatividade, decisões estratégicas e visão do projeto
 
 *"A melhor tecnologia é aquela que potencializa o potencial humano"*
+
+---
+
+## 📊 Atividade no GitHub
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=duduzms&theme=radical&hide_border=true&background=0d1117)](https://github.com/duduzms)
+
+</div>
 
 ---
 
