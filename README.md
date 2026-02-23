@@ -1,35 +1,93 @@
-### 👋 Olá! Eu sou o Dudu
+<div align="center">
+  
+# 👋 Olá! Eu sou o Dudu
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 
-```md
-# 💫 Sobre mim:
-🌱 Atualmente estudando **Node.js e JavaScript**<br>
-💻 Criando coisas legais para WhatsApp<br>
-🎯 17 anos e apaixonado por tecnologia<br>
-⚡ Fun fact: Amo café e código ☕
+### 💻 Desenvolvedor apaixonado por criar soluções para WhatsApp
 
-## 🌐 Onde me encontrar:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seuuser)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@seuuser)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/seuconvite)
-
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=duduzms&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=duduzms&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzms&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐍 Commits do ano:
-![Snake animation](https://github.com/duduzms/duduzms/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=duduzms&label=Visualizações%20de%20Perfil&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+## 🚀 Sobre mim
 
-⭐️ Deixe uma estrela nos meus projetos se gostou!
+```javascript
+const dudu = {
+    idade: 17,
+    localização: "Brasil 🇧🇷",
+    foco: ["Node.js", "JavaScript", "Automação WhatsApp"],
+    atualmenteAprendendo: "Desenvolvimento Backend com Node.js",
+    hobbies: ["Programar", "Tomar café ☕", "Criar bots"],
+    objetivo: "Construir projetos que facilitem a vida das pessoas"
+};
+```
+
+<div align="center">
+
+## 🛠️ Tecnologias & Ferramentas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duduzms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduzms&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duduzms&theme=tokyonight&hide_border=true)
+  
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/duduzms/duduzms/blob/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
+---
+
+## 💡 Projetos em Destaque
+
+Estou sempre trabalhando em novos projetos! Confira meus repositórios e veja no que tenho trabalhado. 
+
+**Principais áreas de interesse:**
+- 🤖 Bots e automações para WhatsApp
+- 🌐 Desenvolvimento web com JavaScript
+- 📱 APIs e integrações
+
+---
+
+<div align="center">
+
+## 📱 Vamos conectar?
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duduzms)
+
+---
+
+### ⭐ Se gostou do meu trabalho, deixe uma estrela nos repositórios!
+
+![Profile Views](https://komarev.com/ghpvc/?username=duduzms&color=blueviolet&style=for-the-badge)
+
+---
+
+*"A melhor maneira de prever o futuro é criá-lo"* 💻✨
+
+</div>
